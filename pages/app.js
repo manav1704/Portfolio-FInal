@@ -1,7 +1,7 @@
-import '../styles/globals.css';  // Applies to all pages
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />;  // Renders the current page
+  return <Component {...pageProps} />;
 }
 
 export default MyApp;
