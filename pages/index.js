@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="app">
       <Head>
-        <title>Your Name | Portfolio</title>
+        <title>Manav | Portfolio</title>
         <meta name="description" content="Developer portfolio" />
       </Head>
 
